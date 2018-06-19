@@ -1,0 +1,11 @@
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\bin\Debug\netcoreapp2.0\RESTServiceSample.deps.json
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\bin\Debug\netcoreapp2.0\RESTServiceSample.runtimeconfig.json
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\bin\Debug\netcoreapp2.0\RESTServiceSample.runtimeconfig.dev.json
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\bin\Debug\netcoreapp2.0\RESTServiceSample.dll
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\bin\Debug\netcoreapp2.0\RESTServiceSample.pdb
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\obj\Debug\netcoreapp2.0\RESTServiceSample.csproj.CoreCompileInputs.cache
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\obj\Debug\netcoreapp2.0\RESTServiceSample.AssemblyInfoInputs.cache
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\obj\Debug\netcoreapp2.0\RESTServiceSample.AssemblyInfo.cs
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\obj\Debug\netcoreapp2.0\RESTServiceSample.dll
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\obj\Debug\netcoreapp2.0\RESTServiceSample.pdb
+C:\Git\Other\RESTSample\RESTServiceSample\RESTServiceSample\obj\Debug\netcoreapp2.0\RESTServiceSample.csprojAssemblyReference.cache
